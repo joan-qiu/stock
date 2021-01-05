@@ -27,6 +27,8 @@ public class ShareHoldServiceImpl implements IShareHoldService {
         System.out.println("\033[35;0m" + "5 好好学习" + "\033[0m");
         System.out.println("\033[36;0m" + "6 好好学习" + "\033[0m");
         System.out.println("\033[37;0m" + "7 好好学习" + "\033[0m");
+        System.out.println("\033[37;0m" + "7 好好学习" + "\033[0m");
+
         //30-37有颜色
         System.out.println("\033[38;0m" + "8 好好学习" + "\033[0m");
 
